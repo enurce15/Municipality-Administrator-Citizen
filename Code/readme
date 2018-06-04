@@ -1,0 +1,48 @@
+Municipality Administrator Citizen Web App
+
+Municipality Administrators Web Application is a software that aims to facilitate 
+services offered by the municipality. 
+It has three main users in mind: the Citizen, the building Administrator, 
+and the Municipality Employee. 
+It provides a platform for easier communication between these actors and eases 
+some already-available services by offering them online. 
+"BAQ", its acronym in Albanian, allows Citizens to send complaints to the Municipality 
+regarding problems they face, or file requests online for parking permits, 
+reconstruction permits, etc. without leaving the comfort of their house or 
+having to wait in line for hours. 
+The same functionalities are available to the Administrator with the addition of 
+managing the monthly fees the citizens in his/her building ought to pay, 
+as well as applying for the Administrator status online by submitting the required 
+documents and getting their approval online later on. 
+The Municipality Employee can read complaints and take appropriate action, 
+accept/ deny requests, and see the list of Administrators for each building 
+in the city also portrayed in a map.
+
+
+CREDENTIALS FOR TESTING THE PLATFORM:
+
+Citizen:
+	1. Email:	a2@gmail.com
+	   Password:	Admin1234
+
+	2. Email:	ajdinurce@gmail.com
+	   Password:	Ajdi12345
+
+Administrator:
+	1. Email:	admintest@gmail.com
+	   Password:	111
+
+	2. Email:	gballshi15@epoka.edu.al
+	   Password:	xhulio
+
+Municipality Employee:
+	1. Email:	enurce15@epoka.edu.al
+	   Password:	Erida123
+
+	2. Email:	jkeci15@epoka.edu.al
+	   Password:	Jorgo12345
+
+
+
+It should be noted that Municipality Employees will not be able to Sign Up themselves.
+Rather, accounts for them will be created by the system administrators. 
